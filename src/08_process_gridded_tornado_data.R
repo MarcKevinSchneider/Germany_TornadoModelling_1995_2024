@@ -15,7 +15,7 @@ library(ncdf4)
 library(terra)
 library(catboost)
 
-source("C:/Users/kevis/OneDrive/Desktop/Unisachen/Master/Fernerkundung_GIS_WS2024/Scripts/01_compute_convective_parameters_new.R")
+source("C:/Users/kevis/OneDrive/Desktop/Unisachen/Master/Fernerkundung_GIS_WS2024/Scripts/07_compute_gridded_convective_parameters.R")
 
 # ================================================================
 # 2. Paths
